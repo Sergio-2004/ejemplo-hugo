@@ -1,7 +1,7 @@
 ---
 title: "Portfolio de Sergio"
 
-description: "Test sitio estático."
+description: "Test web hosteada."
 
 featured_image: '/images/hh.jpg'
 ---
