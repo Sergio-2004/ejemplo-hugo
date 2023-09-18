@@ -1,5 +1,5 @@
 ---
-title: "Test de static site con Hugo + Ananke"
+title: "Portfolio de Sergio"
 
 description: "Test sitio estático."
 
